@@ -4,7 +4,7 @@ A collection of utility functions
 
 ```
 getRandomElement([1, 2, 3]);
-// => 3
+// => 3123
 ```
 
 ```

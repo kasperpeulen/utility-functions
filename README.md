@@ -1,3 +1,0 @@
-# utility-functions
-
-hello world
